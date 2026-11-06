@@ -1,0 +1,17 @@
+{
+  "chocochase1": {
+    "sounds": [
+      { "name": "odioelchocolate:chocochase1", "stream": true }
+    ]
+  },
+  "chocochase2": {
+    "sounds": [
+      { "name": "odioelchocolate:chocochase2", "stream": true }
+    ]
+  },
+  "chocospawn": {
+    "sounds": [
+      { "name": "odioelchocolate:chocospawn", "stream": true }
+    ]
+  }
+}
